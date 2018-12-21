@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54090" started-at="2018-12-15T17:23:17Z" finished-at="2018-12-15T17:24:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54090" started-at="2018-12-15T17:23:17Z" finished-at="2018-12-15T17:24:11Z">
+      <class name="screenshot.ScreenshotDemo_Test$ScreenshtTest">
+        <test-method status="PASS" signature="URL()[pri:0, instance:screenshot.ScreenshotDemo_Test$ScreenshtTest@5792a0]" name="URL" is-config="true" duration-ms="16195" started-at="2018-12-15T17:23:17Z" finished-at="2018-12-15T17:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="Selection()[pri:2, instance:screenshot.ScreenshotDemo_Test$ScreenshtTest@5792a0]" name="Selection" duration-ms="9019" started-at="2018-12-15T17:23:34Z" finished-at="2018-12-15T17:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selection -->
+        <test-method status="PASS" signature="Navigate()[pri:3, instance:screenshot.ScreenshotDemo_Test$ScreenshtTest@5792a0]" name="Navigate" duration-ms="16325" started-at="2018-12-15T17:23:43Z" finished-at="2018-12-15T17:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method status="PASS" signature="mouseOver()[pri:4, instance:screenshot.ScreenshotDemo_Test$ScreenshtTest@5792a0]" name="mouseOver" duration-ms="10670" started-at="2018-12-15T17:23:59Z" finished-at="2018-12-15T17:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseOver -->
+        <test-method status="PASS" signature="Cookie_Management()[pri:0, instance:screenshot.ScreenshotDemo_Test$ScreenshtTest@5792a0]" name="Cookie_Management" is-config="true" duration-ms="1856" started-at="2018-12-15T17:24:10Z" finished-at="2018-12-15T17:24:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookie_Management -->
+      </class> <!-- screenshot.ScreenshotDemo_Test$ScreenshtTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
